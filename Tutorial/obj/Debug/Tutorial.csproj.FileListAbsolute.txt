@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.frmDisplay.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.frmRegistration.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.frmAccountDetails.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.frmMain.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.frmBankDetails.resources
